@@ -36,5 +36,7 @@ public class Main {
                 System.out.println(arrayThrid[i]);
             }
         }
+
+//        3
     }
 }
